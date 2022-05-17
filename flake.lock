@@ -51,11 +51,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652391572,
-        "narHash": "sha256-v96ryfNNdF0A0BxYHNlMFqNOuMqvU0q7h1gQ3drMt9A=",
+        "lastModified": 1652792010,
+        "narHash": "sha256-nOv5h8oxjqpddtWmNZ4Rcm8bg8JmiJgKHC06CO0Jzow=",
         "owner": "nim-nix-pkgs",
         "repo": "sodium",
-        "rev": "865f2f56c96fe5df0a00962b6dc15787f55d0fa5",
+        "rev": "cdc8d6084163fdd8d67c3094ca6452f665b7ae71",
         "type": "github"
       },
       "original": {
